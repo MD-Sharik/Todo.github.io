@@ -1,0 +1,17 @@
+
+#nav-wrap{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+#nav{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#search{
+    outline: 2px solid rgba(15, 0, 44, 0.289);
+}
+#search:focus{
+    outline: 5px solid rgba(15, 0, 44, 0.295);
+}
